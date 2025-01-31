@@ -1,0 +1,21 @@
+﻿@model WeatherApp.Models.WeatherViewModel
+
+@{
+    ViewData["Title"] = "Weather";
+}
+
+<h1>Weather App</h1>
+
+<form method="post" asp-action="Index">
+    <input type="text" name="Location" placeholder="Enter location" required />
+    <button type="submit">Get Weather</button>
+</form>
+
+@if (Model != null && Model.Description != null)
+{
+    <h2>Weather in @Model.Location</h2>
+    <p>Description: @Model.Description</p>
+    <p>Temperature: @Model.Temperature &deg;C</p>
+    <p>Humidity: @Model.Humidity %</p>
+    <p>Wind Speed: @Model.WindSpeed m/s</p>
+}

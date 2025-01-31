@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adesh\\source\\repos\\WeatherApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{278FB559-7A47-45DD-B007-210B4E67A684}|WeatherApp.csproj|c:\\users\\adesh\\source\\repos\\weatherapp\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278FB559-7A47-45DD-B007-210B4E67A684}|WeatherApp.csproj|solutionrelative:controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278FB559-7A47-45DD-B007-210B4E67A684}|WeatherApp.csproj|c:\\users\\adesh\\source\\repos\\weatherapp\\views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{278FB559-7A47-45DD-B007-210B4E67A684}|WeatherApp.csproj|solutionrelative:views\\weather\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278FB559-7A47-45DD-B007-210B4E67A684}|WeatherApp.csproj|c:\\users\\adesh\\source\\repos\\weatherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278FB559-7A47-45DD-B007-210B4E67A684}|WeatherApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278FB559-7A47-45DD-B007-210B4E67A684}|WeatherApp.csproj|c:\\users\\adesh\\source\\repos\\weatherapp\\models\\weatherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278FB559-7A47-45DD-B007-210B4E67A684}|WeatherApp.csproj|solutionrelative:models\\weatherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adesh\\source\\repos\\WeatherApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\adesh\\source\\repos\\WeatherApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:20:54.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\adesh\\source\\repos\\WeatherApp\\Views\\Weather\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Weather\\Index.cshtml",
+              "ToolTip": "C:\\Users\\adesh\\source\\repos\\WeatherApp\\Views\\Weather\\Index.cshtml",
+              "RelativeToolTip": "Views\\Weather\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T04:20:30.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\adesh\\source\\repos\\WeatherApp\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherController.cs",
+              "ToolTip": "C:\\Users\\adesh\\source\\repos\\WeatherApp\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "Controllers\\WeatherController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:16:47.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\adesh\\source\\repos\\WeatherApp\\Models\\WeatherViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\WeatherViewModel.cs",
+              "ToolTip": "C:\\Users\\adesh\\source\\repos\\WeatherApp\\Models\\WeatherViewModel.cs",
+              "RelativeToolTip": "Models\\WeatherViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T04:15:18.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
