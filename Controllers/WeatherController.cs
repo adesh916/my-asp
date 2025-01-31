@@ -8,7 +8,7 @@ namespace WeatherApp.Controllers
 {
     public class WeatherController : Controller
     {
-        private readonly string apiKey = "9df826d4e50d2c840afb92d5e09b7a16"; // Replace with your OpenWeatherMap API key
+        private readonly string apiKey = "-"; // Replace with your OpenWeatherMap API key
 
         [HttpGet]
         public IActionResult Index()
